@@ -6,5 +6,9 @@ Es posible leer y modificar el nombre de un empleado
 Es posible leer y modificar el correo de un empleado
 
 
+Es posible leer y modificar la empresa a la que el
+empleado pertenece
+Es posible leer y modificar el rol del empleado
+(administrador, operativo)
 
 }
