@@ -1,0 +1,10 @@
+ClaseEmpleado{
+
+Es posible crear una nueva instancia de la clase
+"Empleado"
+Es posible leer y modificar el nombre de un empleado
+Es posible leer y modificar el correo de un empleado
+
+
+
+}
