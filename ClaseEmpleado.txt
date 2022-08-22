@@ -12,3 +12,5 @@ Es posible leer y modificar el rol del empleado
 (administrador, operativo)
 
 }
+
+Línea Duvan, ensayo sobre rama main protegida
